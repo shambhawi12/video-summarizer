@@ -18,12 +18,14 @@ torchaudio==2.3.1
 deep-translator==1.11.4
 
 # ---------------- LangChain ----------------
-langchain==0.3.27
-langchain-core==0.3.72
-langchain-community==0.3.27
-langchain-huggingface==0.3.1
-langchain-mistralai==0.2.11
+
+
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
 langchain-chroma
+chromadb
 # ---------------- Mistral ----------------
 mistralai==1.9.3
 
