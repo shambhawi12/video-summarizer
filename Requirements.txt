@@ -1,7 +1,7 @@
 # Python >=3.10
 setuptools==70.0.0
 wheel
-langchain-chroma
+
 
 # ---------------- Audio / Video ----------------
 yt-dlp==2024.4.9
@@ -23,7 +23,7 @@ langchain-core==0.3.72
 langchain-community==0.3.27
 langchain-huggingface==0.3.1
 langchain-mistralai==0.2.11
-
+langchain-chroma
 # ---------------- Mistral ----------------
 mistralai==1.9.3
 
