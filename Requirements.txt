@@ -31,9 +31,6 @@ langchain-chroma==0.1.6
 # ---------------- Mistral ----------------
 mistralai==1.9.3
 langchain-mistralai==0.2.3
-# ---------------- Mistral ----------------
-mistralai==1.9.3
-langchain-mistralai==0.2.3
 
 
 # ---------------- RAG ----------------
