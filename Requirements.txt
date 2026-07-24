@@ -1,6 +1,7 @@
 # Python >=3.10
 setuptools==70.0.0
 wheel
+langchain-chroma
 
 # ---------------- Audio / Video ----------------
 yt-dlp==2024.4.9
