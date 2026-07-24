@@ -18,19 +18,18 @@ deep-translator==1.11.4
 
 # ---------------- LangChain ----------------
 
-langchain==0.3.9
-langchain-core==0.3.21
-langchain-community==0.3.9
-langchain-text-splitters==0.3.3
-langchain-chroma==0.1.4
-langchain-mistralai==0.2.3
+langchain==0.3.27
+langchain-core==0.3.72
+langchain-community==0.3.27
+langchain-huggingface==0.3.1
+langchain-chroma==0.2.6
+langchain-mistralai==0.2.11
 
 # ---------------- Vector Database / RAG ----------------
 chromadb==0.5.23
 sentence-transformers==3.0.1
 huggingface-hub>=0.24.0
 tiktoken==0.7.0
-
 # ---------------- Mistral ----------------
 mistralai==1.9.3
 
