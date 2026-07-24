@@ -26,7 +26,11 @@ langchain==0.3.7
 langchain-core==0.3.17
 langchain-community==0.3.7
 langchain-text-splitters==0.3.2
-langchain-chroma==0.1.4
+langchain-chroma==0.1.6
+
+# ---------------- Mistral ----------------
+mistralai==1.9.3
+langchain-mistralai==0.2.3
 # ---------------- Mistral ----------------
 mistralai==1.9.3
 langchain-mistralai==0.2.3
