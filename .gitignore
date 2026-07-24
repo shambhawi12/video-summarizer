@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Chroma database
+chroma_db/
+
+# Generated/local project files
+downloades/
+vector_db/
+
+# macOS
+.DS_Store
